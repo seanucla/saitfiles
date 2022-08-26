@@ -1,1 +1,7 @@
+# Login as the default Administrator and Open Terminal
+#Copy / paste and run this command to install Homebrew.sh
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+#After it is done installing run this command
+git clone https://github.com/seanucla/saitfiles/saitfiles.git
