@@ -1,25 +1,22 @@
 #!/usr/bin/env bash
 
-# Install Brew Packages
-brew install python
-brew install tree
-
 # Install MacOS Applications
-brew cask install google-chrome
-brew cask install firefox
-brew cask install sublime-text
-brew cask install virtualbox
-brew cask install sourcetree
-brew cask install spotify
-brew cask install discord
-brew cask install google-backup-and-sync
-brew cask install skype
-brew cask install gimp
-brew cask install vlc
-brew cask install hyperdock
-brew cask install divvy
+brew --install cask google-chrome
+brew --install cask firefox
+brew --install cask sublime-text
+brew --install cask box-drive
+brew --install cask microsoft-auto-update
+brew --install cask microsoft-excel
+brew --install cask microsoft-outlook
+brew --install cask microsoft-powerpoint
+brew --install cask microsoft-remote-desktop
+brew --install cask microsoft-teams
+brew --install cask microsoft-word
+brew --install cask adobe-acrobat-pro
+brew --install cask zoom
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
 brew cask install font-source-code-pro
 
+$brew install wallpaper
