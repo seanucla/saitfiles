@@ -1,3 +1,1 @@
-#Login to your Administrator Account and open terminal
-run this command:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
