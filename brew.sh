@@ -11,6 +11,7 @@ brew --install cask microsoft-powerpoint
 brew --install cask microsoft-remote-desktop
 brew --install cask microsoft-teams
 brew --install cask microsoft-word
+brew install --cask adobe-creative-cloud
 brew --install cask adobe-acrobat-pro
 brew --install cask zoom
 
