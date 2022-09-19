@@ -12,7 +12,7 @@ fi
 homedir=$1
 
 # saitfiles directory
-saitfiles=${homedir}/saitfiles
+saitfilesdir=${homedir}/saitfiles
 
 # list of files/folders to symlink in ${homedir}
 files="bash_profile bashrc bash_prompt aliases private"
