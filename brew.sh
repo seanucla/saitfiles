@@ -41,4 +41,3 @@ $DOCKUTIL_BINARY --remove 'Keynote' --allhomes --no-restart
 $DOCKUTIL_BINARY --remove 'Pages' --allhomes --no-restart
 killall Dock
 
-$brew install wallpaper
